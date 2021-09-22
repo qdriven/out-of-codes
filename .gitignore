@@ -1,3 +1,5 @@
 *.srt
 *.mp4
 .DS_Store
+*.webm
+*.mkv
